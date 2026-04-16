@@ -1,0 +1,26 @@
+  git init
+  git status
+  ls -a
+  git status
+  lear
+  clear
+  git add testing.py
+  git status
+  git rm --chche
+  git rm --cache
+  git status
+  git rm --cache testing.py
+  git status
+  git add testing.py
+  clear
+  git status
+  git commit -m "this is testing.py"
+  git status
+  rm testing.py
+  ls
+  git status
+  git restore testing.py
+  ls
+  clear
+  touch git-commands.txt
+  his
